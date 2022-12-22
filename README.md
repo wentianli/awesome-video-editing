@@ -95,7 +95,9 @@ The papers are put into categories, in which there is unavoidably some overlappi
 ## Datasets And More
 **Datasets and papers related to video editing, camera movement🎥, shot type🖼️, etc.**
 - `[ECCV 2022]` The Anatomy of Video Editing: A Dataset and Benchmark Suite for AI-Assisted Video Editing [[paper]](http://arxiv.org/abs/2207.09812) [[code & dataset]](https://github.com/dawitmureja/AVE) 🎬🎥🖼️
-- `[ECCV 2022]` MovieCuts: A New Dataset and Benchmark for Cut Type Recognition [[paper]](https://arxiv.org/abs/2109.05569)  [[code & dataset]](https://github.com/PardoAlejo/MovieCuts) 🎬
+- `[ECCV 2022]` MovieCuts: A New Dataset and Benchmark for Cut Type Recognition [[paper]](https://arxiv.org/abs/2109.05569) [[code & dataset]](https://github.com/PardoAlejo/MovieCuts) 🎬
+- `[ICIP 2022]` HISTORIAN: A Large-Scale HISTORIcal Film Dataset with Cinematographic ANnotation [[paper]](https://x.sci-hub.org.cn/target?link=https://www.vhh-project.eu/wp-content/uploads/VHH_Publication_HELM-Daniel_Historian_2022.pdf) [[code & dataset]](https://github.com/dahe-cvl/historian_dataset) 🎬🎥
+- `[ICIS Fall 2021]` RO-TextCNN Based MUL-MOVE-Net for Camera Motion Classification [[paper]](https://ieeexplore.ieee.org/abstract/document/9627386) [[code & dataset]](https://github.com/YMediaLab/Auto-Montage) 🎥
 - `[ICCV 2021 Workshop]` High-Level Features for Movie Style Understanding [[paper]](https://hal.archives-ouvertes.fr/hal-03381587/) 🎬🎥
 - `[ECCV 2020]` MovieNet: A Holistic Dataset for Movie Understanding [[paper]](https://arxiv.org/pdf/2007.10937.pdf) [[code]](https://github.com/movienet) [[project page & dataset]](https://movienet.github.io/) 🎬🎥🖼️
 - `[ECCV 2020]` A Unified Framework for Shot Type Classification Based on Subject Centric Lens [[paper]](http://arxiv.org/abs/2008.03548) [[project page & dataset]](https://anyirao.com/projects/ShotType.html) 🎬🖼️
