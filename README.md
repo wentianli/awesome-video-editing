@@ -1,7 +1,7 @@
 # awesome-video-editing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of automatic video editing and its related computer vision tasks.
 
-The papers are put into categories, in which there is unavoidably some overlapping and imprecision. I use some icons to mark several frequent application scenarios: 💬(talking/meeting), 💃(dancing/performance), ⚽🏌️🎾(sports), 🛒(advertisement/promotional videos), 🎬(movie), etc.  
+The papers are put into categories, in which there is unavoidably some overlapping and imprecision. I use some icons to mark several frequent application scenarios: 💬(talking/meeting), 💃(dancing/performance), ⚽🏀🏌️🎾(sports), 🛒(advertisement/promotional videos), 🎬(movie), etc.  
 
 
 *Note: This paper list does not include the works on image/video manipulation (e.g. content editing, object removal, video stylization).*
@@ -18,11 +18,12 @@ The papers are put into categories, in which there is unavoidably some overlappi
 
 **Modifying the transcript of a speech to change the speech content or to remove filler words.**
 - `[TOG 2019]` Text-based Editing of Talking-head Video [[paper]](https://dl.acm.org/doi/abs/10.1145/3306346.3323028) 💬
+- `[TOG 2012]` Tools for Placing Cuts and Transitions in Interview Video [[paper]](https://dl.acm.org/doi/abs/10.1145/2185520.2185563) 💬
 
 <br/>
 
 ## Cutting and Sequencing Shots
-**To cut unedited videos into shots and to put them in an appropriate order.**
+**To cut unedited videos into shots and/or to put them in an appropriate order.**
 - `[arxiv 2022]` Match Cutting: Finding Cuts with Smooth Visual Transitions [[paper]](https://arxiv.org/abs/2210.05766) [[code]](https://github.com/netflix/matchcut) [[project page]](https://netflixtechblog.com/match-cutting-at-netflix-finding-cuts-with-smooth-visual-transitions-31c3fc14ae59?gi=8873f373fd1d) 🎬
 - `[SAC 2022]` Automated Video Editing Based on Learned Styles Using LSTM-GAN [[paper]](https://dl.acm.org/doi/abs/10.1145/3477314.3507141) 💃
 - `[ICCV 2021 Workshop]` Learning Where To Cut From Edited Videos [[paper]](https://openaccess.thecvf.com/content/ICCV2021W/CVEU/html/Huang_Learning_Where_To_Cut_From_Edited_Videos_ICCVW_2021_paper.html)
@@ -39,9 +40,11 @@ The papers are put into categories, in which there is unavoidably some overlappi
 - `[ECCV 2022 Workshop]` Temporal and Contextual Transformer for Multi-Camera Editing of TV Shows [[paper]](https://arxiv.org/abs/2210.08737)
 - `[ICME 2021]` Reinforcement Learning Based Automatic Personal Mashup Generation [[paper]](https://www.computer.org/csdl/proceedings-article/icme/2021/09428357/1uim1GOOhtC)
 - `[TOMCCAP 2021]` Smart Director: An Event-Driven Directing System for Live Broadcasting [[paper]](https://dl.acm.org/doi/full/10.1145/3448981) ⚽
+- `[ICISP 2018]` Automatic Camera Selection in the Context of Basketball Game [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-94211-7_9) 🏀
 - `[TOG 2017]` Computational Video Editing for Dialogue-Driven Scenes [[paper]](https://dl.acm.org/doi/abs/10.1145/3072959.3073653) 💬
 - `[ACE 2017]` Automatic System for Editing Dance Videos Recorded Using Multiple Cameras [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-76270-8_47) 💃
 - `[TOG 2014]` Automatic Editing of Footage from Multiple Social Cameras [[paper]](https://dl.acm.org/doi/abs/10.1145/2601097.2601198)
+- `[CHI 2008]` Improving Meeting Capture by Applying Television Production Principles with Audio and Motion Detection [[paper]](https://dl.acm.org/doi/abs/10.1145/1357054.1357095) 💬
 - `[ICME 2007]` Automatic Multi-Modal Meeting Camera Selection for Video-Conferences and Meeting Browsers [[paper]](https://ieeexplore.ieee.org/abstract/document/4285090) 💬
 
 <br/>
@@ -100,5 +103,5 @@ The papers are put into categories, in which there is unavoidably some overlappi
 - `[ICIS Fall 2021]` RO-TextCNN Based MUL-MOVE-Net for Camera Motion Classification [[paper]](https://ieeexplore.ieee.org/abstract/document/9627386) [[code & dataset]](https://github.com/YMediaLab/Auto-Montage) 🎥
 - `[ICCV 2021 Workshop]` High-Level Features for Movie Style Understanding [[paper]](https://hal.archives-ouvertes.fr/hal-03381587/) 🎬🎥
 - `[ECCV 2020]` MovieNet: A Holistic Dataset for Movie Understanding [[paper]](https://arxiv.org/pdf/2007.10937.pdf) [[code]](https://github.com/movienet) [[project page & dataset]](https://movienet.github.io/) 🎬🎥🖼️
-- `[ECCV 2020]` A Unified Framework for Shot Type Classification Based on Subject Centric Lens [[paper]](http://arxiv.org/abs/2008.03548) [[project page & dataset]](https://anyirao.com/projects/ShotType.html) 🎬🖼️
+- `[ECCV 2020]` A Unified Framework for Shot Type Classification Based on Subject Centric Lens [[paper]](http://arxiv.org/abs/2008.03548) [[project page & dataset]](https://anyirao.com/projects/ShotType.html) 🎬🎥🖼️
 - `[ICIP 2011]` Using Context Saliency For Movie Shot Classification [[paper]](http://www.nlpr.ia.ac.cn/2011papers/gjhy/gh121.pdf) 🎬🖼️
