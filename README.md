@@ -1,7 +1,7 @@
 # awesome-video-editing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A paper list of automatic video editing and its related computer vision tasks.
 
-The papers are put into categories, in which there is unavoidably some overlapping and imprecision. I use some icons to mark several frequent application scenarios: 💬(talking/meeting), 💃(dancing/performance), ⚽🏀🏌️🎾(sports), 🛒(advertisement/promotional videos), 🎬(movie), etc.  
+The papers are put into categories, in which there is unavoidably some overlapping and imprecision. I use some icons to mark several frequent application scenarios: 💬(talk/meeting), 💃(dance/performance), ⚽🏀🏌️🎾(sports), 🛒(ads/promotional videos), 🎬(movie), etc.
 
 
 *Note: This paper list does not include the works on image/video manipulation (e.g. content editing, object removal, video stylization).*
