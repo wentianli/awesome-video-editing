@@ -74,11 +74,17 @@ The papers are put into categories, in which there is unavoidably some overlappi
 - `[CHI 2019]` B-Script: Transcript-based B-roll Video Editing with Recommendations [[paper]](https://dl.acm.org/doi/pdf/10.1145/3290605.3300311)
 ### Fast-Forwarding & Retiming
 **To change the video speed.**
+- `[TPAMI 2023]` Text-Driven Video Acceleration: A Weakly-Supervised Reinforcement Learning Method [[paper]](https://arxiv.org/abs/2203.15778) [[project page]](https://www.verlab.dcc.ufmg.br/semantic-hyperlapse/tpami2022/)
 - `[CVPR 2022 Workshop]` Video-ReTime: Learning Temporally Varying Speediness for Time Remapping [[paper]](https://arxiv.org/abs/2205.05609)
 - `[TPAMI 2020]` A Sparse Sampling-Based Framework for Semantic Fast-Forward of First-Person Videos [[paper]](https://arxiv.org/abs/2009.11063)
-- `[CVPR 2018]` A Weighted Sparse Sampling and Smoothing Frame Transition Approach for Semantic Fast-Forward First-Person Videos [[paper]](https://arxiv.org/abs/1802.08722) [[project page]](https://www.verlab.dcc.ufmg.br/semantic-hyperlapse/)
 - `[MM 2020]` Automated Aesthetic Enhancement of Videos [[paper]](https://dl.acm.org/doi/abs/10.1145/1873951.1873991) 💃
+- `[CVPR 2018]` A Weighted Sparse Sampling and Smoothing Frame Transition Approach for Semantic Fast-Forward First-Person Videos [[paper]](https://arxiv.org/abs/1802.08722) [[project page]](https://www.verlab.dcc.ufmg.br/semantic-hyperlapse/)
+- `[ECCV 2016 Workshop]` Towards Semantic Fast-Forward and Stabilized Egocentric Videos [[paper]](https://arxiv.org/abs/1708.04146)
+- `[ICIP 2016]` Fast-Forward Video Based on Semantic Extraction [[paper]](https://arxiv.org/abs/1708.04160)
+- `[TOG 2015]` Real-Time Hyperlapse Creation via Optimal Frame Selection [[paper]](https://dl.acm.org/doi/abs/10.1145/2766954)
+- `[TOG 2014]` First-Person Hyper-Lapse Videos [[paper]](https://dl.acm.org/doi/abs/10.1145/2601097.2601195)
 ### Music-Driven Editing
+- `[SIBGRAPI 2021]` Musical Hyperlapse: A Multimodal Approach to Accelerate First-Person Videos [[paper]](https://www.computer.org/csdl/proceedings-article/sibgrapi/2021/235400a184/1zurthy1oJ2)
 - `[CVPR 2018 Workshop]` Visual Rhythm and Beat [[paper]](https://openaccess.thecvf.com/content_cvpr_2018_workshops/w49/html/Davis_Visual_Rhythm_and_CVPR_2018_paper.html)
 - `[TOG 2015]` audeosynth: Music-Driven Video Montage [[paper]](https://dl.acm.org/doi/abs/10.1145/2766966)
 ### Spatial Editing
