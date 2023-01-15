@@ -89,7 +89,7 @@ The papers are put into categories, in which there is unavoidably some overlappi
 - `[TOG 2015]` audeosynth: Music-Driven Video Montage [[paper]](https://dl.acm.org/doi/abs/10.1145/2766966)
 ### Spatial Editing
 **To crop the video based on actionness, aesthetics, etc.**
-- `[CVPR 2020 Workshop]` Production Using Gaussian-Based Actionness and Game States Recognition [[paper]](https://openaccess.thecvf.com/content_CVPRW_2020/html/w53/Quiroga_As_Seen_on_TV_Automatic_Basketball_Video_Production_Using_Gaussian-Based_CVPRW_2020_paper.html) [[project page]]( https://gsbasketball.github.io) 🏀
+- `[CVPR 2020 Workshop]` As Seen on TV: Automatic Basketball Video Production Using Gaussian-Based Actionness and Game States Recognition [[paper]](https://openaccess.thecvf.com/content_CVPRW_2020/html/w53/Quiroga_As_Seen_on_TV_Automatic_Basketball_Video_Production_Using_Gaussian-Based_CVPRW_2020_paper.html) [[project page]]( https://gsbasketball.github.io) 🏀
 - `[CHI 2020]` GAZED– Gaze-guided Cinematic Editing of Wide-Angle Monocular Video Recordings [[paper]](https://dl.acm.org/doi/abs/10.1145/3313831.3376544) 💃
 - `[SA 2017 Poster]` Aesthetic Temporal and Spatial Editing of Casual Videos [[paper]](https://dl.acm.org/doi/abs/10.1145/3145690.3145733)
 ### Video Editing Styles Transfer
