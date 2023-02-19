@@ -67,10 +67,12 @@ The papers are put into categories, in which there is unavoidably some overlappi
 <br/>
 
 ## Other Forms of Editing
+- `[NeurIPS 2022 Workshop]` VideoMap: Video Editing in Latent Space [[paper]](https://arxiv.org/abs/2211.12492) [[project page]](https://chuanenlin.com/videomap)
 - `[ECCV 2022]` AutoTransition: Learning to Recommend Video Transition Effects [[paper]](https://arxiv.org/abs/2207.13479) [[code]](https://github.com/acherstyx/AutoTransition) [[dataset]](https://drive.google.com/file/d/179r-bRu9trSgqh4ejhyplfFKO2ta98BT/view?usp=sharing)
 - `[IJCAI 2020 Demonstrations Track]` An AI-Empowered Visual Storyline Generator [[paper]](https://dl.acm.org/doi/abs/10.5555/3491440.3492205) 🛒
 - `[AAAI 2020 Student Abstract]` Generating Engaging Promotional Videos for E-commerce Platforms [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/7205) 🛒
 - `[UIST 2020]` Automatic Video Creation From a Web Page [[paper]](https://dl.acm.org/doi/abs/10.1145/3379337.3415814)
+- `[TOM 2020]` AutoFoley: Artificial Synthesis of Synchronized Sound Tracks for Silent Videos With Deep Learning [[paper]](https://arxiv.org/abs/2002.10981)
 - `[CHI 2019]` B-Script: Transcript-based B-roll Video Editing with Recommendations [[paper]](https://dl.acm.org/doi/pdf/10.1145/3290605.3300311)
 ### Fast-Forwarding & Retiming
 **To change the video speed.**
