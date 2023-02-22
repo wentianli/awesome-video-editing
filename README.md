@@ -24,7 +24,8 @@ The papers are put into categories, in which there is unavoidably some overlappi
 
 ## Cutting and Sequencing Shots
 **To cut unedited videos into shots and/or to put them in an appropriate order.**
-- `[arxiv 2022]` Match Cutting: Finding Cuts with Smooth Visual Transitions [[paper]](https://arxiv.org/abs/2210.05766) [[code]](https://github.com/netflix/matchcut) [[project page]](https://netflixtechblog.com/match-cutting-at-netflix-finding-cuts-with-smooth-visual-transitions-31c3fc14ae59?gi=8873f373fd1d) 🎬
+- `[WACV 2023]` Match Cutting: Finding Cuts with Smooth Visual Transitions [[paper]](https://arxiv.org/abs/2210.05766) [[code]](https://github.com/netflix/matchcut) [[project page]](https://netflixtechblog.com/match-cutting-at-netflix-finding-cuts-with-smooth-visual-transitions-31c3fc14ae59?gi=8873f373fd1d) 🎬
+- `[ACCV 2022]` Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward [[paper]](https://arxiv.org/abs/2209.12164v1) [[code]](https://github.com/yunlong10/Ads-1k) 🛒
 - `[SAC 2022]` Automated Video Editing Based on Learned Styles Using LSTM-GAN [[paper]](https://dl.acm.org/doi/abs/10.1145/3477314.3507141) 💃
 - `[ICCV 2021 Workshop]` Learning Where To Cut From Edited Videos [[paper]](https://openaccess.thecvf.com/content/ICCV2021W/CVEU/html/Huang_Learning_Where_To_Cut_From_Edited_Videos_ICCVW_2021_paper.html)
 - `[ICCV 2021]` Learning to Cut by Watching Movies [[paper]](https://arxiv.org/abs/2108.04294) [[code & dataset]](https://github.com/PardoAlejo/LearningToCut) [[project page]](https://www.alejandropardo.net/publication/learning-to-cut/)
