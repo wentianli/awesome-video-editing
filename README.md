@@ -100,6 +100,7 @@ The papers are put into categories, in which there is unavoidably some overlappi
 - `[CVPR 2021 Workshop]` Editing Like Humans: A Contextual, Multimodal Framework for Automated Video Editing [[paper]](https://openaccess.thecvf.com/content/CVPR2021W/MULA/html/Koorathota_Editing_Like_Humans_A_Contextual_Multimodal_Framework_for_Automated_Video_CVPRW_2021_paper.html) [[project page]](http://cmve.foveainsights.com/) 💬
 - `[CVPR 2021 Workshop]` Automatic Non-Linear Video Editing Transfer [[paper]](https://arxiv.org/abs/2105.06988)
 ### Virtual Cinematography
+- `[arXiv 2023]` Dynamic Storyboard Generation in an Engine-based Virtual Environment for Video Production [[paper]](https://arxiv.org/abs/2301.12688) [[project page]](https://virtualfilmstudio.github.io/)
 - `[CHI 2021]` Virtual Camera Layout Generation using a Reference Video [[paper]](https://dl.acm.org/doi/abs/10.1145/3411764.3445437)
 - `[TOMCCAP 2018]` Thinking Like a Director: Film Editing Patterns for Virtual Cinematographic Storytelling [[paper]](https://dl.acm.org/doi/abs/10.1145/3241057)
 <br/>
