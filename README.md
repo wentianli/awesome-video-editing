@@ -51,6 +51,7 @@ The papers are put into categories, in which there is unavoidably some overlappi
 <br/>
 
 ## Video Summarization & Highlight Detection
+- `[CVPR 2023]` Collaborative Noisy Label Cleaner: Learning Scene-aware Trailers for Multi-modal Highlight Detection in Movies [[paper]](https://arxiv.org/abs/2303.14768) [[code]](https://github.com/TencentYoutuResearch/HighlightDetection-CLC) 🎬
 - `[NeurIPS 2022 Workshop]` Videogenic: Video Highlights via Photogenic Moments [[paper]](https://neuripscreativityworkshop.github.io/2022/papers/ml4cd2022_paper02.pdf) [[project page]](https://humanvideointeraction.github.io/videogenic/)
 - `[AutoUI 2021]` Automatic Generation of Road Trip Summary Video for Reminiscence and Entertainment using Dashcam Video [[paper]](https://dl.acm.org/doi/abs/10.1145/3409118.3475151)
 - `[MM 2021]` Automated Multi-Modal Video Editing for Ads Video [[paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3479205) 🛒
@@ -87,6 +88,7 @@ The papers are put into categories, in which there is unavoidably some overlappi
 - `[TOG 2015]` Real-Time Hyperlapse Creation via Optimal Frame Selection [[paper]](https://dl.acm.org/doi/abs/10.1145/2766954)
 - `[TOG 2014]` First-Person Hyper-Lapse Videos [[paper]](https://dl.acm.org/doi/abs/10.1145/2601097.2601195)
 ### Music-Driven Editing
+- `[arxiv 2023]` AutoMatch: A Large-scale Audio Beat Matching Benchmark for Boosting Deep Learning Assistant Video Editing [[paper]](https://arxiv.org/abs/2303.01884)
 - `[SIBGRAPI 2021]` Musical Hyperlapse: A Multimodal Approach to Accelerate First-Person Videos [[paper]](https://www.computer.org/csdl/proceedings-article/sibgrapi/2021/235400a184/1zurthy1oJ2)
 - `[CVPR 2018 Workshop]` Visual Rhythm and Beat [[paper]](https://openaccess.thecvf.com/content_cvpr_2018_workshops/w49/html/Davis_Visual_Rhythm_and_CVPR_2018_paper.html)
 - `[TOG 2015]` audeosynth: Music-Driven Video Montage [[paper]](https://dl.acm.org/doi/abs/10.1145/2766966)
