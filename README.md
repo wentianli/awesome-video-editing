@@ -9,6 +9,7 @@ The papers are put into categories, in which there is unavoidably some overlappi
 ---
 ## Text-based Video Editing
 **Using texts as input to automatically create video sequences from a collection of videos or images.**
+- `[ICMR 2023]` Shot Retrieval and Assembly with Text Script for Video Montage Generation [[paper]](https://dl.acm.org/doi/10.1145/3591106.3592247) [[code]](https://github.com/RATVDemo/RATV)
 - `[MM 2022]` Transcript to Video: Efficient Clip Sequencing from Texts [[paper]](https://arxiv.org/abs/2107.11851) [[project page]](http://www.xiongyu.me/projects/transcript2video/)
 - `[CHI 2020]` Generating Audio-Visual Slideshows from Text Articles Using Word Concreteness [[paper]](https://dl.acm.org/doi/abs/10.1145/3313831.3376519)
 - `[TOG 2019]` Write-A-Video: Computational Video Montage from Themed Text [[paper]](https://dl.acm.org/doi/abs/10.1145/3355089.3356520)
@@ -109,6 +110,8 @@ The papers are put into categories, in which there is unavoidably some overlappi
 
 ## Datasets And More
 **Datasets and papers related to video editing, camera movement🎥, shot type🖼️, etc.**
+- `[ICCV 2023]` Long-range Multimodal Pretraining for Movie Understanding [[paper]](https://arxiv.org/abs/2308.09775) 🎬
+- `[ECCV 2022 Workshop]` Movie Lens: Discovering and Characterizing Editing Patterns in the Analysis of Short Movie Sequences [[paper]](https://dl.acm.org/doi/abs/10.1007/978-3-031-25069-9_42) 🎬
 - `[ECCV 2022]` The Anatomy of Video Editing: A Dataset and Benchmark Suite for AI-Assisted Video Editing [[paper]](http://arxiv.org/abs/2207.09812) [[code & dataset]](https://github.com/dawitmureja/AVE) 🎬🎥🖼️
 - `[ECCV 2022]` MovieCuts: A New Dataset and Benchmark for Cut Type Recognition [[paper]](https://arxiv.org/abs/2109.05569) [[code & dataset]](https://github.com/PardoAlejo/MovieCuts) 🎬
 - `[ICIP 2022]` HISTORIAN: A Large-Scale HISTORIcal Film Dataset with Cinematographic ANnotation [[paper]](https://x.sci-hub.org.cn/target?link=https://www.vhh-project.eu/wp-content/uploads/VHH_Publication_HELM-Daniel_Historian_2022.pdf) [[code & dataset]](https://github.com/dahe-cvl/historian_dataset) 🎬🎥
