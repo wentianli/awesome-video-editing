@@ -25,6 +25,7 @@ The papers are put into categories, in which there is unavoidably some overlappi
 
 ## Cutting and Sequencing Shots
 **To cut unedited videos into shots and/or to put them in an appropriate order.**
+- `[ICCV 2023 Workshop]` Representation Learning of Next Shot Selection for Vlog Editing [[paper]](https://cveu.github.io/2023/papers/31.pdf)
 - `[WACV 2023]` Match Cutting: Finding Cuts with Smooth Visual Transitions [[paper]](https://arxiv.org/abs/2210.05766) [[code]](https://github.com/netflix/matchcut) [[project page]](https://netflixtechblog.com/match-cutting-at-netflix-finding-cuts-with-smooth-visual-transitions-31c3fc14ae59?gi=8873f373fd1d) 🎬
 - `[ACCV 2022]` Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward [[paper]](https://arxiv.org/abs/2209.12164v1) [[code]](https://github.com/yunlong10/Ads-1k) 🛒
 - `[SAC 2022]` Automated Video Editing Based on Learned Styles Using LSTM-GAN [[paper]](https://dl.acm.org/doi/abs/10.1145/3477314.3507141) 💃
@@ -70,6 +71,7 @@ The papers are put into categories, in which there is unavoidably some overlappi
 <br/>
 
 ## Other Forms of Editing
+- `[UIST 2023]` Automated Conversion of Music Videos into Lyric Videos [[paper]](https://arxiv.org/abs/2308.14922) [[project page]](https://majiaju.io/lyric-video)
 - `[NeurIPS 2022 Workshop]` VideoMap: Video Editing in Latent Space [[paper]](https://arxiv.org/abs/2211.12492) [[project page]](https://chuanenlin.com/videomap)
 - `[ECCV 2022]` AutoTransition: Learning to Recommend Video Transition Effects [[paper]](https://arxiv.org/abs/2207.13479) [[code]](https://github.com/acherstyx/AutoTransition) [[dataset]](https://drive.google.com/file/d/179r-bRu9trSgqh4ejhyplfFKO2ta98BT/view?usp=sharing)
 - `[IJCAI 2020 Demonstrations Track]` An AI-Empowered Visual Storyline Generator [[paper]](https://dl.acm.org/doi/abs/10.5555/3491440.3492205) 🛒
@@ -79,6 +81,7 @@ The papers are put into categories, in which there is unavoidably some overlappi
 - `[CHI 2019]` B-Script: Transcript-based B-roll Video Editing with Recommendations [[paper]](https://dl.acm.org/doi/pdf/10.1145/3290605.3300311)
 ### Fast-Forwarding & Retiming
 **To change the video speed.**
+- `[PRL 2023]` A Multimodal Hyperlapse Method Based on Video and Songs' Emotion Alignment [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0167865522002537)
 - `[TPAMI 2023]` Text-Driven Video Acceleration: A Weakly-Supervised Reinforcement Learning Method [[paper]](https://arxiv.org/abs/2203.15778) [[project page]](https://www.verlab.dcc.ufmg.br/semantic-hyperlapse/tpami2022/)
 - `[CVPR 2022 Workshop]` Video-ReTime: Learning Temporally Varying Speediness for Time Remapping [[paper]](https://arxiv.org/abs/2205.05609)
 - `[TPAMI 2020]` A Sparse Sampling-Based Framework for Semantic Fast-Forward of First-Person Videos [[paper]](https://arxiv.org/abs/2009.11063)
@@ -100,16 +103,18 @@ The papers are put into categories, in which there is unavoidably some overlappi
 - `[SA 2017 Poster]` Aesthetic Temporal and Spatial Editing of Casual Videos [[paper]](https://dl.acm.org/doi/abs/10.1145/3145690.3145733)
 ### Video Editing Styles Transfer
 **To extract the editing styles in a source video and apply them to other video footages.**
+- `[CVPR 2023]` JAWS: Just A Wild Shot for Cinematic Transfer in Neural Radiance Fields [[paper]](https://arxiv.org/abs/2303.15427) [[project page]](https://www.lix.polytechnique.fr/vista/projects/2023_cvpr_wang/)
 - `[CVPR 2021 Workshop]` Editing Like Humans: A Contextual, Multimodal Framework for Automated Video Editing [[paper]](https://openaccess.thecvf.com/content/CVPR2021W/MULA/html/Koorathota_Editing_Like_Humans_A_Contextual_Multimodal_Framework_for_Automated_Video_CVPRW_2021_paper.html) [[project page]](http://cmve.foveainsights.com/) 💬
 - `[CVPR 2021 Workshop]` Automatic Non-Linear Video Editing Transfer [[paper]](https://arxiv.org/abs/2105.06988)
 ### Virtual Cinematography
-- `[arXiv 2023]` Dynamic Storyboard Generation in an Engine-based Virtual Environment for Video Production [[paper]](https://arxiv.org/abs/2301.12688) [[project page]](https://virtualfilmstudio.github.io/)
+- `[SIGGRAPH 2023 Poster]` Dynamic Storyboard Generation in an Engine-based Virtual Environment for Video Production [[paper]](https://arxiv.org/abs/2301.12688) [[project page]](https://virtualfilmstudio.github.io/)
 - `[CHI 2021]` Virtual Camera Layout Generation using a Reference Video [[paper]](https://dl.acm.org/doi/abs/10.1145/3411764.3445437)
 - `[TOMCCAP 2018]` Thinking Like a Director: Film Editing Patterns for Virtual Cinematographic Storytelling [[paper]](https://dl.acm.org/doi/abs/10.1145/3241057)
 <br/>
 
 ## Datasets And More
 **Datasets and papers related to video editing, camera movement🎥, shot type🖼️, etc.**
+- `[ICCV 2023 Workshop]` LEMMS: Label Estimation of Multi-feature Movie Segments [[paper]](https://openaccess.thecvf.com/content/ICCV2023W/CVEU/html/Vacchetti_LEMMS_Label_Estimation_of_Multi-Feature_Movie_Segments_ICCVW_2023_paper.html) 🎬🖼️
 - `[ICCV 2023]` Long-range Multimodal Pretraining for Movie Understanding [[paper]](https://arxiv.org/abs/2308.09775) 🎬
 - `[ECCV 2022 Workshop]` Movie Lens: Discovering and Characterizing Editing Patterns in the Analysis of Short Movie Sequences [[paper]](https://dl.acm.org/doi/abs/10.1007/978-3-031-25069-9_42) 🎬
 - `[ECCV 2022]` The Anatomy of Video Editing: A Dataset and Benchmark Suite for AI-Assisted Video Editing [[paper]](http://arxiv.org/abs/2207.09812) [[code & dataset]](https://github.com/dawitmureja/AVE) 🎬🎥🖼️
