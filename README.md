@@ -25,6 +25,8 @@ The papers are put into categories, in which there is unavoidably some overlappi
 
 ## Cutting and Sequencing Shots
 **To cut unedited videos into shots and/or to put them in an appropriate order.**
+- `[CVPR 2024]` Towards Automated Movie Trailer Generation [[paper]](https://arxiv.org/abs/2404.03477) 🎬
+- `[MM 2023]` A Reinforcement Learning-Based Automatic Video Editing [[paper]](https://arxiv.org/abs/2301.00135v2) 🎬
 - `[ICCV 2023 Workshop]` Representation Learning of Next Shot Selection for Vlog Editing [[paper]](https://cveu.github.io/2023/papers/31.pdf)
 - `[WACV 2023]` Match Cutting: Finding Cuts with Smooth Visual Transitions [[paper]](https://arxiv.org/abs/2210.05766) [[code]](https://github.com/netflix/matchcut) [[project page]](https://netflixtechblog.com/match-cutting-at-netflix-finding-cuts-with-smooth-visual-transitions-31c3fc14ae59?gi=8873f373fd1d) 🎬
 - `[ACCV 2022]` Multi-modal Segment Assemblage Network for Ad Video Editing with Importance-Coherence Reward [[paper]](https://arxiv.org/abs/2209.12164v1) [[code]](https://github.com/yunlong10/Ads-1k) 🛒
@@ -39,6 +41,7 @@ The papers are put into categories, in which there is unavoidably some overlappi
 
 ## Multi-Camera / Multi-Take Editing
 **To select video shots from multiple camera views or multiple takes of the same event.**
+- `[MIG 2023]` Real-time Computational Cinematographic Editing for Broadcasting of Volumetric-captured events: an Application to Ultimate Fighting [[paper]](https://dl.acm.org/doi/abs/10.1145/3623264.3624468) 🥊
 - `[TOG 2022]` PopStage: The Generation of Stage Cross-Editing Video Based on Spatio-Temporal Matching [[paper]](https://dl.acm.org/doi/abs/10.1145/3550454.3555467) [[project page]](https://w-dlee.github.io/popstage) 💃
 - `[ECCV 2022 Workshop]` Temporal and Contextual Transformer for Multi-Camera Editing of TV Shows [[paper]](https://arxiv.org/abs/2210.08737)
 - `[ICME 2021]` Reinforcement Learning Based Automatic Personal Mashup Generation [[paper]](https://www.computer.org/csdl/proceedings-article/icme/2021/09428357/1uim1GOOhtC)
@@ -98,6 +101,8 @@ The papers are put into categories, in which there is unavoidably some overlappi
 - `[TOG 2015]` audeosynth: Music-Driven Video Montage [[paper]](https://dl.acm.org/doi/abs/10.1145/2766966)
 ### Spatial Editing
 **To crop the video based on actionness, aesthetics, etc.**
+- `[arxiv 2024]` Reframe Anything: LLM Agent for Open World Video Reframing [[paper]](https://arxiv.org/abs/2403.06070)
+- `[WACV 2024]` Real Time GAZED: Online Shot Selection and Editing of Virtual Cameras from Wide-Angle Monocular Video Recordings [[paper]](https://arxiv.org/abs/2311.15581)
 - `[CVPR 2020 Workshop]` As Seen on TV: Automatic Basketball Video Production Using Gaussian-Based Actionness and Game States Recognition [[paper]](https://openaccess.thecvf.com/content_CVPRW_2020/html/w53/Quiroga_As_Seen_on_TV_Automatic_Basketball_Video_Production_Using_Gaussian-Based_CVPRW_2020_paper.html) [[project page]]( https://gsbasketball.github.io) 🏀
 - `[CHI 2020]` GAZED– Gaze-guided Cinematic Editing of Wide-Angle Monocular Video Recordings [[paper]](https://dl.acm.org/doi/abs/10.1145/3313831.3376544) 💃
 - `[SA 2017 Poster]` Aesthetic Temporal and Spatial Editing of Casual Videos [[paper]](https://dl.acm.org/doi/abs/10.1145/3145690.3145733)
@@ -107,6 +112,7 @@ The papers are put into categories, in which there is unavoidably some overlappi
 - `[CVPR 2021 Workshop]` Editing Like Humans: A Contextual, Multimodal Framework for Automated Video Editing [[paper]](https://openaccess.thecvf.com/content/CVPR2021W/MULA/html/Koorathota_Editing_Like_Humans_A_Contextual_Multimodal_Framework_for_Automated_Video_CVPRW_2021_paper.html) [[project page]](http://cmve.foveainsights.com/) 💬
 - `[CVPR 2021 Workshop]` Automatic Non-Linear Video Editing Transfer [[paper]](https://arxiv.org/abs/2105.06988)
 ### Virtual Cinematography
+- `[CVPR 2024]` Cinematic Behavior Transfer via NeRF-based Differentiable Filming [[paper]](https://arxiv.org/abs/2311.17754) [[project page]](https://virtualfilmstudio.github.io/projects/cinetransfer)
 - `[SIGGRAPH 2023 Poster]` Dynamic Storyboard Generation in an Engine-based Virtual Environment for Video Production [[paper]](https://arxiv.org/abs/2301.12688) [[project page]](https://virtualfilmstudio.github.io/)
 - `[CHI 2021]` Virtual Camera Layout Generation using a Reference Video [[paper]](https://dl.acm.org/doi/abs/10.1145/3411764.3445437)
 - `[TOMCCAP 2018]` Thinking Like a Director: Film Editing Patterns for Virtual Cinematographic Storytelling [[paper]](https://dl.acm.org/doi/abs/10.1145/3241057)
@@ -114,6 +120,7 @@ The papers are put into categories, in which there is unavoidably some overlappi
 
 ## Datasets And More
 **Datasets and papers related to video editing, camera movement🎥, shot type🖼️, etc.**
+- `[IMXw]` Recognition of Camera Angle and Camera Level in Movies from Single Frames [[paper]](https://dl.acm.org/doi/fullHtml/10.1145/3604321.3604334) [[project page]](https://cinescale.github.io/camera_al/) 🎬🖼️
 - `[ICCV 2023 Workshop]` LEMMS: Label Estimation of Multi-feature Movie Segments [[paper]](https://openaccess.thecvf.com/content/ICCV2023W/CVEU/html/Vacchetti_LEMMS_Label_Estimation_of_Multi-Feature_Movie_Segments_ICCVW_2023_paper.html) 🎬🖼️
 - `[ICCV 2023]` Long-range Multimodal Pretraining for Movie Understanding [[paper]](https://arxiv.org/abs/2308.09775) 🎬
 - `[ECCV 2022 Workshop]` Movie Lens: Discovering and Characterizing Editing Patterns in the Analysis of Short Movie Sequences [[paper]](https://dl.acm.org/doi/abs/10.1007/978-3-031-25069-9_42) 🎬
