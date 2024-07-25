@@ -8,6 +8,9 @@ The papers are put into categories, in which there is unavoidably some overlappi
 
 ---
 ## Text-based Video Editing
+**LLM-Powered Editing.**
+- `[IUI 2024]` LAVE: LLM-Powered Agent Assistance and Language Augmentation for Video Editing [[paper]](https://arxiv.org/abs/2402.10294)
+
 **Using texts as input to automatically create video sequences from a collection of videos or images.**
 - `[ICMR 2023]` Shot Retrieval and Assembly with Text Script for Video Montage Generation [[paper]](https://dl.acm.org/doi/10.1145/3591106.3592247) [[code]](https://github.com/RATVDemo/RATV)
 - `[MM 2022]` Transcript to Video: Efficient Clip Sequencing from Texts [[paper]](https://arxiv.org/abs/2107.11851) [[project page]](http://www.xiongyu.me/projects/transcript2video/)
@@ -25,6 +28,7 @@ The papers are put into categories, in which there is unavoidably some overlappi
 
 ## Cutting and Sequencing Shots
 **To cut unedited videos into shots and/or to put them in an appropriate order.**
+- `[ICASSP 2024]` Audio Match Cutting: Finding and Creating Matching Audio Transitions in Movies and Videos [[paper]](https://ieeexplore.ieee.org/abstract/document/10447306) [[project page]](https://denfed.github.io/audiomatchcut/)
 - `[CVPR 2024]` Towards Automated Movie Trailer Generation [[paper]](https://arxiv.org/abs/2404.03477) 🎬
 - `[MM 2023]` A Reinforcement Learning-Based Automatic Video Editing [[paper]](https://arxiv.org/abs/2301.00135v2) 🎬
 - `[ICCV 2023 Workshop]` Representation Learning of Next Shot Selection for Vlog Editing [[paper]](https://cveu.github.io/2023/papers/31.pdf)
@@ -74,6 +78,9 @@ The papers are put into categories, in which there is unavoidably some overlappi
 <br/>
 
 ## Other Forms of Editing
+- `[arxiv 2024]` VCoME: Verbal Video Composition with Multimodal Editing Effects [[paper]](https://arxiv.org/abs/2407.04697) [[code]](https://github.com/LetsGoFir/VCoME) 💬
+- `[CHI 2024]` ChunkyEdit: Text-first video interview editing via chunking [[paper]](https://dl.acm.org/doi/10.1145/3613904.3642667) 💬
+- `[IUI 2024]` ExpressEdit: Video Editing with Natural Language and Sketching [[paper]](https://arxiv.org/abs/2403.17693) [[code]](https://github.com/fesiib/video-editing-pipeline) [[project page]](https://expressedit.kixlab.org/)
 - `[UIST 2023]` Automated Conversion of Music Videos into Lyric Videos [[paper]](https://arxiv.org/abs/2308.14922) [[project page]](https://majiaju.io/lyric-video)
 - `[NeurIPS 2022 Workshop]` VideoMap: Video Editing in Latent Space [[paper]](https://arxiv.org/abs/2211.12492) [[project page]](https://chuanenlin.com/videomap)
 - `[ECCV 2022]` AutoTransition: Learning to Recommend Video Transition Effects [[paper]](https://arxiv.org/abs/2207.13479) [[code]](https://github.com/acherstyx/AutoTransition) [[dataset]](https://drive.google.com/file/d/179r-bRu9trSgqh4ejhyplfFKO2ta98BT/view?usp=sharing)
@@ -120,6 +127,9 @@ The papers are put into categories, in which there is unavoidably some overlappi
 
 ## Datasets And More
 **Datasets and papers related to video editing, camera movement🎥, shot type🖼️, etc.**
+- `[arxiv 2024]` Edit3K: Universal Representation Learning for Video Editing Components [[paper]](https://arxiv.org/abs/2403.16048)
+- `[CVPR 2024]` Neighbor Relations Matter in Video Scene Detection [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Tan_Neighbor_Relations_Matter_in_Video_Scene_Detection_CVPR_2024_paper.pdf) [[code]](https://github.com/ExMorgan-Alter/NeighborNet)
+- `[WACV 2024]` Movie Genre Classification by Language Augmentation and Shot Sampling [[paper]](https://arxiv.org/abs/2203.13281) [[code]](https://github.com/Zhongping-Zhang/Movie-CLIP) 🎬
 - `[IMXw 2023]` Recognition of Camera Angle and Camera Level in Movies from Single Frames [[paper]](https://dl.acm.org/doi/fullHtml/10.1145/3604321.3604334) [[project page]](https://cinescale.github.io/camera_al/) 🎬🖼️
 - `[ICCV 2023 Workshop]` LEMMS: Label Estimation of Multi-feature Movie Segments [[paper]](https://openaccess.thecvf.com/content/ICCV2023W/CVEU/html/Vacchetti_LEMMS_Label_Estimation_of_Multi-Feature_Movie_Segments_ICCVW_2023_paper.html) 🎬🖼️
 - `[ICCV 2023]` Long-range Multimodal Pretraining for Movie Understanding [[paper]](https://arxiv.org/abs/2308.09775) 🎬
