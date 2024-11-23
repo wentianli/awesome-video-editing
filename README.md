@@ -115,6 +115,7 @@ The papers are put into categories, in which there is unavoidably some overlappi
 - `[SA 2017 Poster]` Aesthetic Temporal and Spatial Editing of Casual Videos [[paper]](https://dl.acm.org/doi/abs/10.1145/3145690.3145733)
 ### Video Editing Styles Transfer
 **To extract the editing styles in a source video and apply them to other video footages.**
+- `[arXiv 2024]` StableV2V: Stablizing Shape Consistency in Video-to-Video Editing [paper]](https://arxiv.org/pdf/2411.11045) [[project]](https://alonzoleeeooo.github.io/StableV2V)
 - `[CVPR 2023]` JAWS: Just A Wild Shot for Cinematic Transfer in Neural Radiance Fields [[paper]](https://arxiv.org/abs/2303.15427) [[project page]](https://www.lix.polytechnique.fr/vista/projects/2023_cvpr_wang/)
 - `[CVPR 2021 Workshop]` Editing Like Humans: A Contextual, Multimodal Framework for Automated Video Editing [[paper]](https://openaccess.thecvf.com/content/CVPR2021W/MULA/html/Koorathota_Editing_Like_Humans_A_Contextual_Multimodal_Framework_for_Automated_Video_CVPRW_2021_paper.html) [[project page]](http://cmve.foveainsights.com/) 💬
 - `[CVPR 2021 Workshop]` Automatic Non-Linear Video Editing Transfer [[paper]](https://arxiv.org/abs/2105.06988)
