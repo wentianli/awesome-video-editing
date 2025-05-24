@@ -1,17 +1,22 @@
 # awesome-video-editing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A paper list of automatic video editing and its related computer vision tasks.
+A paper list on video editing (in a cinematographic sense) and its related computer vision tasks.
 
 The papers are put into categories, in which there is unavoidably some overlapping and imprecision. I use some icons to mark several frequent application scenarios: 💬(talk/meeting), 💃(dance/performance), ⚽🏀🏌️🎾(sports), 🛒(ads/promotional videos), 🎬(movie), etc.
 
 
 *Note: This paper list does not include the works on image/video manipulation (e.g. content editing, object removal, video stylization).*
 
+🀄视频剪辑
+
 ---
 ## Text-based Video Editing
-**LLM-Powered Editing.**
+**LLM-Powered or Instruction-based Editing.**
+- `[NeurIPS 2024 workshop]` Generative Timelines for Instructed Visual Assembly [[paper]](https://arxiv.org/abs/2411.12293) [[project page]](https://sites.google.com/kaust.edu.sa/timeline-assembler)
 - `[IUI 2024]` LAVE: LLM-Powered Agent Assistance and Language Augmentation for Video Editing [[paper]](https://arxiv.org/abs/2402.10294)
 
 **Using texts as input to automatically create video sequences from a collection of videos or images.**
+- `[arxiv 2025]` SKALD: Learning-Based Shot Assembly for Coherent Multi-Shot Video Creation [[paper]](https://arxiv.org/abs/2503.08010)
+- `[arxiv 2024]` Text-Video Multi-Grained Integration for Video Moment Montage [[paper]](https://arxiv.org/abs/2412.09276)
 - `[ICMR 2023]` Shot Retrieval and Assembly with Text Script for Video Montage Generation [[paper]](https://dl.acm.org/doi/10.1145/3591106.3592247) [[code]](https://github.com/RATVDemo/RATV)
 - `[MM 2022]` Transcript to Video: Efficient Clip Sequencing from Texts [[paper]](https://arxiv.org/abs/2107.11851) [[project page]](http://www.xiongyu.me/projects/transcript2video/)
 - `[CHI 2020]` Generating Audio-Visual Slideshows from Text Articles Using Word Concreteness [[paper]](https://dl.acm.org/doi/abs/10.1145/3313831.3376519)
@@ -78,6 +83,7 @@ The papers are put into categories, in which there is unavoidably some overlappi
 <br/>
 
 ## Other Forms of Editing
+- `[arxiv 2024]` MatchDiffusion: Training-free Generation of Match-cuts [[paper]](https://arxiv.org/abs/2411.18677) [[project page]](https://matchdiffusion.github.io/)
 - `[arxiv 2024]` VCoME: Verbal Video Composition with Multimodal Editing Effects [[paper]](https://arxiv.org/abs/2407.04697) [[code]](https://github.com/LetsGoFir/VCoME) 💬
 - `[CHI 2024]` ChunkyEdit: Text-first video interview editing via chunking [[paper]](https://dl.acm.org/doi/10.1145/3613904.3642667) 💬
 - `[IUI 2024]` ExpressEdit: Video Editing with Natural Language and Sketching [[paper]](https://arxiv.org/abs/2403.17693) [[code]](https://github.com/fesiib/video-editing-pipeline) [[project page]](https://expressedit.kixlab.org/)
@@ -127,7 +133,8 @@ The papers are put into categories, in which there is unavoidably some overlappi
 
 ## Datasets And More
 **Datasets and papers related to video editing, camera movement🎥, shot type🖼️, etc.**
-- `[arxiv 2024]` Edit3K: Universal Representation Learning for Video Editing Components [[paper]](https://arxiv.org/abs/2403.16048)
+- `[CVPR 2025]` VEU-Bench: Towards Comprehensive Understanding of Video Editing [[paper]](https://arxiv.org/abs/2504.17828) [[project page]](https://labazh.github.io/VEU-Bench.github.io/)
+- `[arxiv 2024]` Edit3K: Universal Representation Learning for Video Editing Components [[paper]](https://arxiv.org/abs/2403.16048) [[code]](https://github.com/GX77/Edit3K) [[dataset]](https://huggingface.co/datasets/Gstar666/Edit3K)
 - `[CVPR 2024]` Neighbor Relations Matter in Video Scene Detection [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Tan_Neighbor_Relations_Matter_in_Video_Scene_Detection_CVPR_2024_paper.pdf) [[code]](https://github.com/ExMorgan-Alter/NeighborNet)
 - `[WACV 2024]` Movie Genre Classification by Language Augmentation and Shot Sampling [[paper]](https://arxiv.org/abs/2203.13281) [[code]](https://github.com/Zhongping-Zhang/Movie-CLIP) 🎬
 - `[IMXw 2023]` Recognition of Camera Angle and Camera Level in Movies from Single Frames [[paper]](https://dl.acm.org/doi/fullHtml/10.1145/3604321.3604334) [[project page]](https://cinescale.github.io/camera_al/) 🎬🖼️
