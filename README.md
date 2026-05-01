@@ -11,6 +11,8 @@ The papers are put into categories, in which there is unavoidably some overlappi
 ---
 ## Text-based Video Editing
 **LLM-Powered or Instruction-based Editing.**
+- `[arxiv 2026]` CineAgents: A Benchmark and Multi-Agent System for Instruction-driven Cinematic Video Compilation [[paper]](https://arxiv.org/abs/2604.10456)
+- `[SIGGRAPH 2025]` EditDuet: A Multi-Agent System for Video Non-Linear Editing [[paper]](https://arxiv.org/abs/2509.10761) [[project page]](https://mudtriangle.com/editduet)
 - `[NeurIPS 2024 workshop]` Generative Timelines for Instructed Visual Assembly [[paper]](https://arxiv.org/abs/2411.12293) [[project page]](https://sites.google.com/kaust.edu.sa/timeline-assembler)
 - `[IUI 2024]` LAVE: LLM-Powered Agent Assistance and Language Augmentation for Video Editing [[paper]](https://arxiv.org/abs/2402.10294)
 
@@ -33,6 +35,9 @@ The papers are put into categories, in which there is unavoidably some overlappi
 
 ## Cutting and Sequencing Shots
 **To cut unedited videos into shots and/or to put them in an appropriate order.**
+- `[arxiv 2026]` DIRECT: Video Mashup Creation via Hierarchical Multi-Agent Planning and Intent-Guided Editing [[paper]](https://arxiv.org/abs/2604.04875) [[code]](https://github.com/AK-DREAM/DIRECT)
+- `[arxiv 2025]` Energy-Based Shot Assembly Optimization for Automatic Video Editing [[paper]](https://arxiv.org/abs/2511.02505)
+- `[arxiv 2026]` OmniShotCut: Holistic Relational Shot Boundary Detection with Shot-Query Transformer [[paper]](https://arxiv.org/abs/2604.24762)
 - `[ICASSP 2024]` Audio Match Cutting: Finding and Creating Matching Audio Transitions in Movies and Videos [[paper]](https://ieeexplore.ieee.org/abstract/document/10447306) [[project page]](https://denfed.github.io/audiomatchcut/)
 - `[CVPR 2024]` Towards Automated Movie Trailer Generation [[paper]](https://arxiv.org/abs/2404.03477) 🎬
 - `[MM 2023]` A Reinforcement Learning-Based Automatic Video Editing [[paper]](https://arxiv.org/abs/2301.00135v2) 🎬
@@ -108,6 +113,8 @@ The papers are put into categories, in which there is unavoidably some overlappi
 - `[TOG 2015]` Real-Time Hyperlapse Creation via Optimal Frame Selection [[paper]](https://dl.acm.org/doi/abs/10.1145/2766954)
 - `[TOG 2014]` First-Person Hyper-Lapse Videos [[paper]](https://dl.acm.org/doi/abs/10.1145/2601097.2601195)
 ### Music-Driven Editing
+- `[MM 2026]` GLANCE: A Global–Local Coordination Multi-Agent Framework for Music-Grounded Non-Linear Video Editing [[paper]](https://arxiv.org/abs/2604.05076) [[code]](https://github.com/ZihaoLinQZ/GLANCE-Video-Editing-Agent)
+- `[arxiv 2026]` CutClaw: Agentic Hours-Long Video Editing via Music Synchronization [[paper]](https://arxiv.org/abs/2603.29664) [[code]](https://github.com/GVCLab/CutClaw)
 - `[arxiv 2023]` AutoMatch: A Large-scale Audio Beat Matching Benchmark for Boosting Deep Learning Assistant Video Editing [[paper]](https://arxiv.org/abs/2303.01884)
 - `[SIBGRAPI 2021]` Musical Hyperlapse: A Multimodal Approach to Accelerate First-Person Videos [[paper]](https://www.computer.org/csdl/proceedings-article/sibgrapi/2021/235400a184/1zurthy1oJ2)
 - `[CVPR 2018 Workshop]` Visual Rhythm and Beat [[paper]](https://openaccess.thecvf.com/content_cvpr_2018_workshops/w49/html/Davis_Visual_Rhythm_and_CVPR_2018_paper.html)
@@ -125,6 +132,7 @@ The papers are put into categories, in which there is unavoidably some overlappi
 - `[CVPR 2021 Workshop]` Editing Like Humans: A Contextual, Multimodal Framework for Automated Video Editing [[paper]](https://openaccess.thecvf.com/content/CVPR2021W/MULA/html/Koorathota_Editing_Like_Humans_A_Contextual_Multimodal_Framework_for_Automated_Video_CVPRW_2021_paper.html) [[project page]](http://cmve.foveainsights.com/) 💬
 - `[CVPR 2021 Workshop]` Automatic Non-Linear Video Editing Transfer [[paper]](https://arxiv.org/abs/2105.06988)
 ### Virtual Cinematography
+- `[ICCV 2025]` GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography [[paper]](https://arxiv.org/abs/2504.07083) [[code]](https://github.com/3DTopia/GenDoP) [[project page]](https://kszpxxzmc.github.io/GenDoP/)
 - `[CVPR 2024]` Cinematic Behavior Transfer via NeRF-based Differentiable Filming [[paper]](https://arxiv.org/abs/2311.17754) [[project page]](https://virtualfilmstudio.github.io/projects/cinetransfer)
 - `[SIGGRAPH 2023 Poster]` Dynamic Storyboard Generation in an Engine-based Virtual Environment for Video Production [[paper]](https://arxiv.org/abs/2301.12688) [[project page]](https://virtualfilmstudio.github.io/)
 - `[CHI 2021]` Virtual Camera Layout Generation using a Reference Video [[paper]](https://dl.acm.org/doi/abs/10.1145/3411764.3445437)
@@ -133,6 +141,8 @@ The papers are put into categories, in which there is unavoidably some overlappi
 
 ## Datasets And More
 **Datasets and papers related to video editing, camera movement🎥, shot type🖼️, etc.**
+- `[arxiv 2026]` Seeking Universal Shot Language Understanding Solutions [[paper]](https://arxiv.org/abs/2603.18448)
+- `[arxiv 2026]` CamReasoner: Reinforcing Camera Movement Understanding via Structured Spatial Reasoning [[paper]](https://arxiv.org/abs/2602.00181) [[code]](https://github.com/wuhang03/CamReasoner) 🎥
 - `[CVPR 2025]` VEU-Bench: Towards Comprehensive Understanding of Video Editing [[paper]](https://arxiv.org/abs/2504.17828) [[project page]](https://labazh.github.io/VEU-Bench.github.io/)
 - `[arxiv 2024]` Edit3K: Universal Representation Learning for Video Editing Components [[paper]](https://arxiv.org/abs/2403.16048) [[code]](https://github.com/GX77/Edit3K) [[dataset]](https://huggingface.co/datasets/Gstar666/Edit3K)
 - `[CVPR 2024]` Neighbor Relations Matter in Video Scene Detection [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Tan_Neighbor_Relations_Matter_in_Video_Scene_Detection_CVPR_2024_paper.pdf) [[code]](https://github.com/ExMorgan-Alter/NeighborNet)
