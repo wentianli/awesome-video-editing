@@ -11,6 +11,8 @@ The papers are put into categories, in which there is unavoidably some overlappi
 ---
 ## Text-based Video Editing
 **LLM-Powered or Instruction-based Editing.**
+- `[EMNLP 2026]` Plans You Can Check: Verifier-Grounded Learning of an Open-Weight Planner for Executable Video-Editing [[paper]](https://arxiv.org/abs/2608.25622)
+- `[arxiv 2026]` Unified Agentic Video Editing Across Levels of Complexity and Creativity [[paper]](https://arxiv.org/abs/2609.12769)
 - `[arxiv 2026]` CineAgents: A Benchmark and Multi-Agent System for Instruction-driven Cinematic Video Compilation [[paper]](https://arxiv.org/abs/2604.10456)
 - `[SIGGRAPH 2025]` EditDuet: A Multi-Agent System for Video Non-Linear Editing [[paper]](https://arxiv.org/abs/2509.10761) [[project page]](https://mudtriangle.com/editduet)
 - `[NeurIPS 2024 workshop]` Generative Timelines for Instructed Visual Assembly [[paper]](https://arxiv.org/abs/2411.12293) [[project page]](https://sites.google.com/kaust.edu.sa/timeline-assembler)
@@ -35,6 +37,8 @@ The papers are put into categories, in which there is unavoidably some overlappi
 
 ## Cutting and Sequencing Shots
 **To cut unedited videos into shots and/or to put them in an appropriate order.**
+- `[SIGGRAPH 2026]` Autoregressive Modeling of Film with Applications in Video Montage [[paper]](https://arxiv.org/abs/2607.14645) 🎬
+- `[BMVC 2026]` PERSIST: Persistent-State Discrimination for Shot Boundary Detection [[paper]](https://arxiv.org/abs/2608.29287) [[code]](https://github.com/linty5/PERSIST)
 - `[arxiv 2026]` DIRECT: Video Mashup Creation via Hierarchical Multi-Agent Planning and Intent-Guided Editing [[paper]](https://arxiv.org/abs/2604.04875) [[code]](https://github.com/AK-DREAM/DIRECT)
 - `[arxiv 2025]` Energy-Based Shot Assembly Optimization for Automatic Video Editing [[paper]](https://arxiv.org/abs/2511.02505)
 - `[arxiv 2026]` OmniShotCut: Holistic Relational Shot Boundary Detection with Shot-Query Transformer [[paper]](https://arxiv.org/abs/2604.24762)
@@ -55,6 +59,7 @@ The papers are put into categories, in which there is unavoidably some overlappi
 
 ## Multi-Camera / Multi-Take Editing
 **To select video shots from multiple camera views or multiple takes of the same event.**
+- `[arxiv 2026]` A Dual-Transformer for Multi-Camera View Recommendation [[paper]](https://arxiv.org/abs/2608.25601)
 - `[MIG 2023]` Real-time Computational Cinematographic Editing for Broadcasting of Volumetric-captured events: an Application to Ultimate Fighting [[paper]](https://dl.acm.org/doi/abs/10.1145/3623264.3624468) 🥊
 - `[TOG 2022]` PopStage: The Generation of Stage Cross-Editing Video Based on Spatio-Temporal Matching [[paper]](https://dl.acm.org/doi/abs/10.1145/3550454.3555467) [[project page]](https://w-dlee.github.io/popstage) 💃
 - `[ECCV 2022 Workshop]` Temporal and Contextual Transformer for Multi-Camera Editing of TV Shows [[paper]](https://arxiv.org/abs/2210.08737)
@@ -70,6 +75,8 @@ The papers are put into categories, in which there is unavoidably some overlappi
 <br/>
 
 ## Video Summarization & Highlight Detection
+- `[ECCV 2026]` TRINITY: A Multi-Perspective Benchmark for Personal-Style Video Highlight Detection [[paper]](https://arxiv.org/abs/2608.29577) [[code]](https://github.com/vanilladucky/TRINITY)
+- `[MM 2026 Workshop]` Audio for Sports Highlight Detection: A Comparative Empirical Study [[paper]](https://arxiv.org/abs/2609.17923) ⚽
 - `[CVPR 2023]` Collaborative Noisy Label Cleaner: Learning Scene-aware Trailers for Multi-modal Highlight Detection in Movies [[paper]](https://arxiv.org/abs/2303.14768) [[code]](https://github.com/TencentYoutuResearch/HighlightDetection-CLC) 🎬
 - `[NeurIPS 2022 Workshop]` Videogenic: Video Highlights via Photogenic Moments [[paper]](https://neuripscreativityworkshop.github.io/2022/papers/ml4cd2022_paper02.pdf) [[project page]](https://humanvideointeraction.github.io/videogenic/)
 - `[AutoUI 2021]` Automatic Generation of Road Trip Summary Video for Reminiscence and Entertainment using Dashcam Video [[paper]](https://dl.acm.org/doi/abs/10.1145/3409118.3475151)
@@ -141,6 +148,9 @@ The papers are put into categories, in which there is unavoidably some overlappi
 
 ## Datasets And More
 **Datasets and papers related to video editing, camera movement🎥, shot type🖼️, etc.**
+- `[ECCV 2026]` Natural Language Camera Movement Understanding [[paper]](https://arxiv.org/abs/2607.03043) 🎥
+- `[arxiv 2026]` MEDit-Bench: A Dataset for Evaluating Message-Driven Narrative Video Editing [[paper]](https://arxiv.org/abs/2607.25300)
+- `[arxiv 2026]` CinematicVQA: Benchmarking Film-Grammar Reasoning in Large Vision-Language Models [[paper]](https://arxiv.org/abs/2609.28813) 🎬🖼️
 - `[arxiv 2026]` Seeking Universal Shot Language Understanding Solutions [[paper]](https://arxiv.org/abs/2603.18448)
 - `[arxiv 2026]` CamReasoner: Reinforcing Camera Movement Understanding via Structured Spatial Reasoning [[paper]](https://arxiv.org/abs/2602.00181) [[code]](https://github.com/wuhang03/CamReasoner) 🎥
 - `[CVPR 2025]` VEU-Bench: Towards Comprehensive Understanding of Video Editing [[paper]](https://arxiv.org/abs/2504.17828) [[project page]](https://labazh.github.io/VEU-Bench.github.io/)
